@@ -3,7 +3,7 @@ async function CarregarDados() {
     const url = 'https://bug-free-goggles-97g9pgjwgr54fwpj-3000.app.github.dev/'
 
     try {
-    // Etapa 2 e 3 — Fazer a requisição e aguardar a resposta
+    // Etapa 2 e 3 — Fazer a requisição e aguardar a respostaabc
     const resposta = await fetch(url);
     
     // Etapa 4 — Converter a resposta em JSON
